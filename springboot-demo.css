@@ -1,0 +1,13 @@
+springboot-demo/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── springbootdemo/
+│   │   │               ├── SpringbootDemoApplication.java
+│   │   │               └── controller/
+│   │   │                   └── HelloController.java
+│   │   └── resources/
+│   │       └── application.properties
+├── pom.xml
